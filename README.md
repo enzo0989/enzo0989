@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Enzo Cañete
-- 👀 I’m interested in coding, learning, languages and talking with new people.
+- 👀 I’m interested in coding, learning languages and talking with new people.
 - 🌱 I’m currently learning HTML,CSS, Javascript and python.
 - 💞️ I’m looking to collaborate on any projects thats pushes me to improve.
 - 📫 How to reach me:
