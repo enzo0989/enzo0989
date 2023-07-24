@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enzo Cañete.
 - 👀 I’m interested in coding, learning languages and talking with new people.
-- 🌱 I’m currently learning HTML, CSS, Javascript and python.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any projects thats pushes me to improve.
 - 📫 How to reach me:
 - anyone can reach me through instagram: @ st0ic_mind
